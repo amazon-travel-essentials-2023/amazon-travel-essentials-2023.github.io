@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/welcome.jpg
 navigation: True
-title: Amazon best sellers part 1
+title: Amazon top fans for summer
 date: 2023-07-17 10:00:00
 tags: [amazon,fan,summer,heat,usb,rechargable,hot,cool,Wearable,Wearable-fan]
 class: post-template
