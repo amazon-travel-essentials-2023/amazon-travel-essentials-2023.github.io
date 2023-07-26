@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/welcome.jpg
 navigation: True
-title: amazon travel must haves tiktok
+title: amazon must haves tiktok
 date: 2023-07-25 10:00:00
 tags: [amazon,travel ,tiktok,must haves,laptop,table,bed desk,laptop fan]
 class: post-template
